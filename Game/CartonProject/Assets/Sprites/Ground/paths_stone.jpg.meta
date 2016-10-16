@@ -1,12 +1,13 @@
 fileFormatVersion: 2
 guid: 86042aad21bced04bbf1eeff85d1b89c
-timeCreated: 1476550413
+timeCreated: 1476659305
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: paths_stone_0
     21300002: paths_stone_1
     21300004: paths_stone_2
+    21300006: paths_stone_3
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -92,6 +93,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: paths_stone_3
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 134
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 7, z: 1, w: 9}
       outline: []
       tessellationDetail: 0
     outline: []
