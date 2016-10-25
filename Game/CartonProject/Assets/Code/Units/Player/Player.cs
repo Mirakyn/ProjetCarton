@@ -8,6 +8,7 @@ public class Player : Unit {
 	protected override void Start(){
 		animator = GetComponent<Animator>();
 		moves = new Player_Moves_Behaviour (this);
+		actions = new Player_Action_Behaviour (this);
 	}
 
 	//
@@ -39,6 +40,7 @@ public class Player : Unit {
 	// Update is called once per frame
 	protected override void Update () { 
 		//Movement update
-		moves.update(this.speed);
+		moves.update (this.speed);
+		actions.update ();
 	}
 }

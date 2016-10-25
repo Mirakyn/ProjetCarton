@@ -1,15 +1,12 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Non_Player_Action_Behaviour : MonoBehaviour {
+public abstract class Non_Player_Action_Behaviour : Action_Behaviour {
 
-	// Use this for initialization
-	void Start () {
-	
-	}
-	
 	// Update is called once per frame
-	void Update () {
-	
-	}
+	public abstract override void update ();
+
+	public abstract void get_Player_Action (Player player, string action);
+
+	protected abstract void dialogue_Action (Player player);
 }
