@@ -5,12 +5,10 @@ public abstract class Unit : MonoBehaviour {
 	//Attributes
 	protected Animator animator;
 
-	/** you have to make this type of attributes to use your unit
-	 * protected Moves_Behaviour moves;
-	 * protected Action_Behaviour actions;
-	 * protected Classe classe;
-	 * protected Race race;
-	 */
+	protected Moves_Behaviour moves;
+	protected Action_Behaviour actions;
+	protected Classe classe;
+	protected Race race;
 
 	[SerializeField]
 	protected string name_Unit;

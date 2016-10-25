@@ -3,12 +3,11 @@ using System.Collections;
 
 public class Player : Unit {
 	//Attributes
-	private Player_Behaviour moves;
 
 	//
 	protected override void Start(){
 		animator = GetComponent<Animator>();
-		moves = new Player_Behaviour (this);
+		moves = new Player_Moves_Behaviour (this);
 	}
 
 	//
@@ -21,7 +20,7 @@ public class Player : Unit {
 		this.speed = speed;
 
 		animator = GetComponent<Animator>();
-		moves = new Player_Behaviour (this);
+		moves = new Player_Moves_Behaviour (this);
 	}
 
 	//
@@ -34,7 +33,7 @@ public class Player : Unit {
 		this.speed = speed;
 
 		animator = GetComponent<Animator>();
-		moves = new Player_Behaviour (this);
+		moves = new Player_Moves_Behaviour (this);
 	}
 
 	// Update is called once per frame

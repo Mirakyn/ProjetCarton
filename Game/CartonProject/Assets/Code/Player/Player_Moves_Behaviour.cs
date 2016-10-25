@@ -1,19 +1,24 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Player_Behaviour : Moves_Behaviour {
-	private Player refered_To;
+public class Player_Moves_Behaviour : Moves_Behaviour {
 
-	public Player_Behaviour (Player refered_To){
+	public Player_Moves_Behaviour (Player refered_To){
 		this.refered_To = refered_To;
 	}
 
-	public void update (int speed){
+	/**
+	 * Override update to enable the utilization by players or other unit classes
+	 */
+	public override void update (int speed){
 		Vector2 moves = move_object (speed);
 		move_animation (moves);
 	}
 
-
+	/**
+	 * Used to move the player with inputs
+	 * @param speed, speed to use
+	 */
 	private Vector2 move_object (int speed){
 		float v_Movement = Input.GetAxis("Vertical") * speed;
 		float h_Movement = Input.GetAxis("Horizontal") * speed;

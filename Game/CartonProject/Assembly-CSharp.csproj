@@ -46,7 +46,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Code\Player\Player.cs" />
-     <Compile Include="Assets\Code\Player\Player_Behaviour.cs" />
+     <Compile Include="Assets\Code\Player\Player_Moves_Behaviour.cs" />
      <Compile Include="Assets\Code\Units\Action_Behaviour.cs" />
      <Compile Include="Assets\Code\Units\Classe.cs" />
      <Compile Include="Assets\Code\Units\Moves_Behaviour.cs" />
