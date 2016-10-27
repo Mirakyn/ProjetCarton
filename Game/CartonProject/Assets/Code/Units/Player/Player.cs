@@ -7,6 +7,9 @@ public class Player : Unit {
 	//
 	protected override void Start(){
 		animator = GetComponent<Animator>();
+		body_Form = GetComponent<BoxCollider2D> ();
+		speaking_Raduis = GetComponent<CircleCollider2D> ();
+
 		moves = new Player_Moves_Behaviour (this);
 		actions = new Player_Action_Behaviour (this);
 	}

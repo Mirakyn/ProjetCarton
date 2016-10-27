@@ -5,6 +5,8 @@ public abstract class Unit : MonoBehaviour {
 	//Attributes
 	protected Animator animator;
 
+	protected BoxCollider2D body_Form;
+	protected CircleCollider2D speaking_Raduis;
 	protected Moves_Behaviour moves;
 	protected Action_Behaviour actions;
 	protected Classe classe;
