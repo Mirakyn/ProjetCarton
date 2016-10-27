@@ -1,14 +1,15 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\Units\Non_Player\Guard\Guard_Action_Behaviour.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\GUI\HUD\HUD.cs">
     <Files>
-      <File FileName="Assets\Code\Units\Player\Player.cs" Line="43" Column="16" />
-      <File FileName="Assets\Code\Units\Player\Player_Action_Behaviour.cs" Line="19" Column="72" />
-      <File FileName="Assets\Code\Units\Unit.cs" Line="35" Column="20" />
-      <File FileName="Assets\Code\Units\Action_Behaviour.cs" Line="7" Column="33" />
-      <File FileName="Assets\Code\Units\Non_Player\Non_Player_Action_Behaviour.cs" Line="11" Column="11" />
-      <File FileName="Assets\Code\Units\Non_Player\Guard\Guard_Action_Behaviour.cs" Line="17" Column="26" />
-      <File FileName="Assets\Code\Units\Non_Player\Guard\Guard.cs" Line="12" Column="4" />
+      <File FileName="Assets\Code\Units\Non_Player\Guard\Guard.cs" Line="10" Column="1" />
+      <File FileName="Assets\Code\Units\Non_Player\Guard\Guard_Action_Behaviour.cs" Line="22" Column="32" />
+      <File FileName="Assets\Code\GUI\HUD\HUD.cs" Line="54" Column="57" />
+      <File FileName="Assets\Code\GUI\HUD\Caracter_HUD.cs" Line="26" Column="15" />
+      <File FileName="Assets\Code\GUI\HUD\Ally_HUD.cs" Line="17" Column="29" />
+      <File FileName="Assets\Code\GUI\HUD\Pointer_HUD.cs" Line="27" Column="15" />
+      <File FileName="Assets\Code\Units\Non_Player\Non_Player_Action_Behaviour.cs" Line="10" Column="53" />
+      <File FileName="Assets\Code\Units\Action_Behaviour.cs" Line="4" Column="39" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

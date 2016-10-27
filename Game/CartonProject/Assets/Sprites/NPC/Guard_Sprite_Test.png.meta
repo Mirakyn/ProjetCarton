@@ -1,0 +1,899 @@
+fileFormatVersion: 2
+guid: a65abff5d74e12244af1aabe9702796c
+timeCreated: 1477501407
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Guard_Sprite_Test_0
+    21300002: Guard_Sprite_Test_1
+    21300004: Guard_Sprite_Test_2
+    21300006: Guard_Sprite_Test_3
+    21300008: Guard_Sprite_Test_4
+    21300010: Guard_Sprite_Test_5
+    21300012: Guard_Sprite_Test_6
+    21300014: Guard_Sprite_Test_7
+    21300016: Guard_Sprite_Test_8
+    21300018: Guard_Sprite_Test_9
+    21300020: Guard_Sprite_Test_10
+    21300022: Guard_Sprite_Test_11
+    21300024: Guard_Sprite_Test_12
+    21300026: Guard_Sprite_Test_13
+    21300028: Guard_Sprite_Test_14
+    21300030: Guard_Sprite_Test_15
+    21300032: Guard_Sprite_Test_16
+    21300034: Guard_Sprite_Test_17
+    21300036: Guard_Sprite_Test_18
+    21300038: Guard_Sprite_Test_19
+    21300040: Guard_Sprite_Test_20
+    21300042: Guard_Sprite_Test_21
+    21300044: Guard_Sprite_Test_22
+    21300046: Guard_Sprite_Test_23
+    21300048: Guard_Sprite_Test_24
+    21300050: Guard_Sprite_Test_25
+    21300052: Guard_Sprite_Test_26
+    21300054: Guard_Sprite_Test_27
+    21300056: Guard_Sprite_Test_28
+    21300058: Guard_Sprite_Test_29
+    21300060: Guard_Sprite_Test_30
+    21300062: Guard_Sprite_Test_31
+    21300064: Guard_Sprite_Test_32
+    21300066: Guard_Sprite_Test_33
+    21300068: Guard_Sprite_Test_34
+    21300070: Guard_Sprite_Test_35
+    21300072: Guard_Sprite_Test_36
+    21300074: Guard_Sprite_Test_37
+    21300076: Guard_Sprite_Test_38
+    21300078: Guard_Sprite_Test_39
+    21300080: Guard_Sprite_Test_40
+    21300082: Guard_Sprite_Test_41
+    21300084: Guard_Sprite_Test_42
+    21300086: Guard_Sprite_Test_43
+    21300088: Guard_Sprite_Test_44
+    21300090: Guard_Sprite_Test_45
+    21300092: Guard_Sprite_Test_46
+    21300094: Guard_Sprite_Test_47
+    21300096: Guard_Sprite_Test_48
+    21300098: Guard_Sprite_Test_49
+    21300100: Guard_Sprite_Test_50
+    21300102: Guard_Sprite_Test_51
+    21300104: Guard_Sprite_Test_52
+    21300106: Guard_Sprite_Test_53
+    21300108: Guard_Sprite_Test_54
+    21300110: Guard_Sprite_Test_55
+    21300112: Guard_Sprite_Test_56
+    21300114: Guard_Sprite_Test_57
+    21300116: Guard_Sprite_Test_58
+    21300118: Guard_Sprite_Test_59
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 145
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 146
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 145
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 145
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 146
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 145
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_6
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 145
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 146
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_8
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 145
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_9
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 145
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_10
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 146
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_11
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 145
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_12
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 145
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_13
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 146
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_14
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 145
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 98
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 98
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 98
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_18
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 98
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_19
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 98
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_20
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 98
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_21
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 98
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_22
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 98
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_23
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 98
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_24
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 98
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_25
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 98
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_26
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 98
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_27
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 98
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 98
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 98
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 50
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_31
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 50
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_32
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 50
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_33
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 50
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_34
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 50
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_35
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 50
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_36
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 50
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_37
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 50
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_38
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 50
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_39
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 50
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_40
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 50
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_41
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 50
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_42
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 50
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 50
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_44
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 50
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_46
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_47
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_48
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_49
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_50
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_51
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_52
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_53
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_54
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_55
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_56
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_57
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_58
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Guard_Sprite_Test_59
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

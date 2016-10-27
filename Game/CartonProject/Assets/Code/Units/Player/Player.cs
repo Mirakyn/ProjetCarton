@@ -3,7 +3,7 @@ using System.Collections;
 
 public class Player : Unit {
 	//Attributes
-
+	public Player (){}
 	//
 	protected override void Start(){
 		animator = GetComponent<Animator>();

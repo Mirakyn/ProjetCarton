@@ -45,6 +45,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Code\GUI\HUD\Ally_HUD.cs" />
+     <Compile Include="Assets\Code\GUI\HUD\Caracter_HUD.cs" />
+     <Compile Include="Assets\Code\GUI\HUD\HUD.cs" />
+     <Compile Include="Assets\Code\GUI\HUD\Pointer_HUD.cs" />
      <Compile Include="Assets\Code\Units\Action_Behaviour.cs" />
      <Compile Include="Assets\Code\Units\Classe.cs" />
      <Compile Include="Assets\Code\Units\Moves_Behaviour.cs" />
