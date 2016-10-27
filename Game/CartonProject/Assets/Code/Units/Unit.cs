@@ -37,11 +37,15 @@ public abstract class Unit : MonoBehaviour {
 
 
 	//Getter & Setter
-	public Animator getAnimator (){
+	public Animator get_Animator (){
 		return animator;
 	}
 
-	public int getSpeed (){
+	public int get_Speed (){
 		return speed;
+	}
+
+	public string get_Name (){
+		return this.name_Unit;
 	}
 }

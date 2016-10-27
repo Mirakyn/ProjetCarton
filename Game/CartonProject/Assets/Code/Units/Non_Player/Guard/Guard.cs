@@ -29,7 +29,6 @@ public class Guard : Unit_Non_Player {
 		// procedure de test pour les dialogues
 		if (Input.GetKey("e")){
 			actions.get_Player_Action (null, "E");
-			Debug.Log ("plop");
 		}
 	}
 }

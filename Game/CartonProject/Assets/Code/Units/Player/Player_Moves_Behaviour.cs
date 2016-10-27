@@ -42,7 +42,7 @@ public class Player_Moves_Behaviour : Moves_Behaviour {
 		float h_Movement = movements.y;
 
 		//Get the animator to modify
-		Animator animator = refered_To.getAnimator ();
+		Animator animator = refered_To.get_Animator ();
 
 		//Make the animator modification(s)
 		if (v_Movement > 0) {

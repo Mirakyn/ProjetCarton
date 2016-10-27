@@ -21,10 +21,7 @@ public class Guard_Action_Behaviour : Non_Player_Action_Behaviour {
 	protected override void dialogue_Action (){
 		Debug.Log ("begin dialogue");
 
-		// Get the HUD
-		//GameObject HUD = GameObject.Find ("HUD");
-		//GameObject dialogue_HUD = GameObject.Find ("dialogue_HUD");
-
-		GameObject.FindObjectOfType<HUD> ().text_State();
+		// Send its instance and text to the HUD
+		GameObject.FindObjectOfType<HUD> ().text_State(refered_To, "coucou ! <3");
 	}
 }

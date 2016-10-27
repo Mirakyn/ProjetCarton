@@ -11,7 +11,7 @@ public class HUD : MonoBehaviour {
 	private Ally_HUD ally_HUD;
 	private Caracter_HUD caracter_HUD;
 	private Pointer_HUD pointer_HUD;
-	private GameObject dialogues;
+	private Dialogue_HUD dialogues;
 
 	// Use this for initialization
 	void Start () {
@@ -47,13 +47,32 @@ public class HUD : MonoBehaviour {
 			
 	}
 
-	public void text_State (){
+	public void text_State (Unit unit, string text){
 		//Penser a rajouter le pointeur vers le texte a allé lire ne XML pour l'afficher au fur et a mesure (a laisser gérer par le HUD)
-		set_Visible (false);
+		if (dialogues == null) {
+			set_Visible (false);
 
-		dialogues = (GameObject) Instantiate (Resources.Load("GUI/dialogue_HUD"));
+			GameObject d = (GameObject)Instantiate (Resources.Load ("GUI/Dialogue_HUD"));
+			dialogues = GameObject.FindObjectOfType<Dialogue_HUD> ();
+
+			dialogues.set_Dialogue_Tree (unit, text);
+		} else {
+			dialogues.set_Dialogue_Tree (unit, text);
+		}
 
 	}
 
+	public void exit_Dialogue (){
+		if (dialogues != null) {
+			Debug.Log ("debut destroying");
+			//Destroy child of dialogue_HUD and finally dialogue_HUD himself
+			dialogues.destroy_Child();
+			GameObject.Destroy (dialogues.gameObject);
+
+			set_Visible (true);
+			Debug.Log ("fin destroying");
+		}
+
+	}
 
 }

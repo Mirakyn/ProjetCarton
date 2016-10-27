@@ -1,15 +1,15 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\GUI\HUD\HUD.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\GUI\dialogue_HUD\Speaker_Name.cs">
     <Files>
-      <File FileName="Assets\Code\Units\Non_Player\Guard\Guard.cs" Line="10" Column="1" />
-      <File FileName="Assets\Code\Units\Non_Player\Guard\Guard_Action_Behaviour.cs" Line="22" Column="32" />
-      <File FileName="Assets\Code\GUI\HUD\HUD.cs" Line="54" Column="57" />
-      <File FileName="Assets\Code\GUI\HUD\Caracter_HUD.cs" Line="26" Column="15" />
-      <File FileName="Assets\Code\GUI\HUD\Ally_HUD.cs" Line="17" Column="29" />
-      <File FileName="Assets\Code\GUI\HUD\Pointer_HUD.cs" Line="27" Column="15" />
-      <File FileName="Assets\Code\Units\Non_Player\Non_Player_Action_Behaviour.cs" Line="10" Column="53" />
-      <File FileName="Assets\Code\Units\Action_Behaviour.cs" Line="4" Column="39" />
+      <File FileName="Assets\Code\Units\Non_Player\Guard\Guard.cs" Line="31" Column="42" />
+      <File FileName="Assets\Code\Units\Non_Player\Guard\Guard_Action_Behaviour.cs" Line="25" Column="30" />
+      <File FileName="Assets\Code\GUI\HUD\HUD.cs" Line="79" Column="1" />
+      <File FileName="Assets\Code\GUI\dialogue_HUD\Dialogue_HUD.cs" Line="32" Column="5" />
+      <File FileName="Assets\Code\GUI\dialogue_HUD\Speaker_Name.cs" Line="15" Column="3" />
+      <File FileName="Assets\Code\GUI\dialogue_HUD\Dialogue.cs" Line="18" Column="25" />
+      <File FileName="Assets\Code\Units\Unit.cs" Line="40" Column="22" />
+      <File FileName="Assets\Code\Units\Player\Player_Moves_Behaviour.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
